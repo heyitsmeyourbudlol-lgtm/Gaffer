@@ -1,0 +1,14 @@
+gaffer_updater
+__pycache__
+*~syncthing~*
+.vscode
+# kit / secrets
+.env
+.env.*
+*.pem
+credentials.json
+secrets/
+automation.config.local.json
+__pycache__/
+*.py[cod]
+.DS_Store
